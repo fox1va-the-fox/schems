@@ -1,11 +1,11 @@
 name:"shemepacbyobsidian",
-displayName:"Schemepack 800+",
+displayName:"Schemepack 400+",
 author:"[][purple]ob[][purple]idian[]",
 description:"⚠ВНИМАНИЕ!⚠\n
 При удалении схемпака, теги остаются.\n
  Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\n
-Всего здесь более чем 800 схем.\n
-Отдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Snake, без них ничего бы не вышло.",
-version:1.1,
+Всего здесь более чем 400 схем.\n
+Отдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.",
+version:1.2,
 minGameVersion:136,
 hidden: true
