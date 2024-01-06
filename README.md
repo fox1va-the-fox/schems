@@ -1,3 +1,3 @@
 # schems
-Пак схем для игры mindustry
-\Discord: fox1va_
+Пак схем для игры mindustry \
+Discord: fox1va_
